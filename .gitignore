@@ -1,7 +1,5 @@
 node_modules
 .env
-uploads/chats/audio/
-uploads/chats/images/
-uploads/chats/video/
+uploads
 history
 
